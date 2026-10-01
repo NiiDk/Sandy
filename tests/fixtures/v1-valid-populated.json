@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "done": {
+    "kit": true,
+    "glueless": true,
+    "frontal": true
+  },
+  "checks": {
+    "kit-0": true,
+    "kit-1": true,
+    "kit-2": true,
+    "glueless-0": true,
+    "glueless-1": true,
+    "frontal-0": true
+  },
+  "answers": {
+    "kit": 1,
+    "glueless": 0,
+    "frontal": 0
+  },
+  "notes": {
+    "kit": "Organised mannequin stand and heat protectants.",
+    "glueless": "Band tension adjusted, comfortable on ears.",
+    "frontal": "Dry fit complete. Rechecked ear tabs."
+  },
+  "kit": {
+    "Wig block and secure stand": true,
+    "Tail comb and sectioning clips": true,
+    "Fibre-appropriate detangling brush": true,
+    "Measuring tape, wig cap and band": true
+  },
+  "bridal": {
+    "look": "Low chignon with side swoop",
+    "hair": "22 inch natural black frontal wig",
+    "fit": "Glueless with adjustable elastic band",
+    "timing": "Rehearsal booked for Saturday 10am"
+  }
+}

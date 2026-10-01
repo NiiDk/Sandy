@@ -1,0 +1,84 @@
+{
+  "app": "Sandy Studio",
+  "version": 2,
+  "appVersion": "2.0.0",
+  "exportedAt": "2026-09-29T12:00:00.000Z",
+  "learnerId": "learner_sandy_test",
+  "hasPhotos": false,
+  "data": {
+    "version": 2,
+    "appVersion": "2.0.0",
+    "activeLearnerId": "learner_sandy_test",
+    "learners": {
+      "learner_sandy_test": {
+        "id": "learner_sandy_test",
+        "displayName": "Sandy",
+        "createdAt": "2026-09-28T09:00:00.000Z",
+        "updatedAt": "2026-09-29T12:00:00.000Z"
+      }
+    },
+    "done": {
+      "kit": true,
+      "frontal": true
+    },
+    "checks": {
+      "kit-0": true,
+      "kit-1": true,
+      "frontal-0": true
+    },
+    "notes": {
+      "kit": "Kit organized.",
+      "frontal": "Dry fit mastered."
+    },
+    "kit": {
+      "Wig block and secure stand": true
+    },
+    "bridal": {
+      "look": "Low chignon"
+    },
+    "legacyAnswers": {
+      "kit": {
+        "selectedOptionIndex": 1,
+        "migratedAt": "2026-09-29T12:00:00.000Z",
+        "status": "legacy-uncalibrated"
+      }
+    },
+    "events": [
+      {
+        "eventId": "evt_test_101",
+        "learnerId": "learner_sandy_test",
+        "lessonId": "frontal",
+        "questionId": "frontal-q1",
+        "contentRevision": 1,
+        "response": "opt_patch_test",
+        "confidence": "high",
+        "outcome": "correct",
+        "gradingSource": "objective",
+        "timestamp": "2026-09-29T11:45:00.000Z"
+      }
+    ],
+    "reflections": {
+      "frontal-q6": {
+        "response": "Immediately stop, remove tension band, blot adhesive with designated remover wipe.",
+        "criteriaChecked": ["Stop immediately", "Use designated solvent", "Check skin irritation"],
+        "completedAt": "2026-09-29T11:55:00.000Z"
+      }
+    },
+    "gamification": {
+      "weeklyGoalSessions": 3,
+      "earnedBadges": {
+        "first-practice": {
+          "earnedAt": "2026-09-29T11:55:00.000Z",
+          "evidenceId": "evt_test_101",
+          "celebrated": true
+        }
+      },
+      "activityPoints": 50
+    },
+    "settings": {
+      "theme": "system",
+      "reducedMotion": false,
+      "celebrationsEnabled": true
+    }
+  }
+}

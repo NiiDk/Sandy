@@ -1,0 +1,7 @@
+# Test & runtime artifacts
+.playwright-mcp/
+node_modules/
+
+# OS files
+Thumbs.db
+.DS_Store
